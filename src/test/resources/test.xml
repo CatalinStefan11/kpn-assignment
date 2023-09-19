@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:james="http://www.sqills.com/james/">
+  <channel>
+    <item>
+      <title><![CDATA[Dummy storing message]]></title>
+      <category>Storing</category>
+      <james:ticketNumber></james:ticketNumber>
+      <james:postalCodes>1705SC;</james:postalCodes>
+      <james:expectedEndDate></james:expectedEndDate>
+      <james:category>ITVAK</james:category>
+      <james:locations>KPN;</james:locations>
+      <description><![CDATA[hello storing message<br/>Starttijd: 2014-06-13 01:31&nbsp;Eindtijd: onbekend&nbsp;]]></description>
+      <link></link>
+    </item>
+    <item>
+      <title><![CDATA[Test dummy ZM storing zipcode11]]></title>
+      <category>Storing</category>
+      <james:ticketNumber></james:ticketNumber>
+      <james:postalCodes>3333AA;4000AB;</james:postalCodes>
+      <james:expectedEndDate></james:expectedEndDate>
+      <james:category>ZMST</james:category>
+      <james:locations>ZMOH;</james:locations>
+      <description><![CDATA[hellow storing message<br/>Starttijd: 2015-02-05 16:55&nbsp;Eindtijd: onbekend&nbsp;]]></description>
+      <link></link>
+    </item>
+  </channel>
+</rss>
